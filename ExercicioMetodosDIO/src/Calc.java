@@ -8,10 +8,9 @@ public class Calc {
 	public static void sum (double number1,double number2) {
 		
 		double total = number1 + number2;
-		
 		System.out.println ("The total is: "+total);
 				
-		
+		 
 	}
 	
 	public static void subtractiomn (double number1, double number2) {
